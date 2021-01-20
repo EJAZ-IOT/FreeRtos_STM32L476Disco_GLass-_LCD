@@ -10,3 +10,7 @@ IDE USED: STM CUBE IDE
 
 PROJECT PIC:
 ![PROJECT PIC](https://user-images.githubusercontent.com/63635966/105231509-078b0600-5b8d-11eb-92e5-e714a479ebf9.jpeg)
+
+PROJECT VIDEO:
+https://user-images.githubusercontent.com/63635966/105235655-e1b43000-5b91-11eb-9a49-b24ef100c3c7.mp4
+
